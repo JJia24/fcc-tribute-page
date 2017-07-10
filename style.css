@@ -1,0 +1,17 @@
+h1 {
+  border: 5px solid gray;
+}
+
+.centerimage {
+  display:block;
+  margin:auto;
+  width:50%;
+  text-align:center;
+}
+
+img figcaption{
+  display:block;
+  margin:0 auto;
+  width:50%;
+
+}
